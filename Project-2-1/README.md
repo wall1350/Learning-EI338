@@ -376,7 +376,7 @@ Please enter the command! (or type "exit" to exit)
 osh>exit
 ```
 
-Or the corresponding screenshot:
+screenshot:
 
-![Screenshot](./screenshot.png)
-
+![](https://github.com/wall1350/Learning-EI338/blob/master/Project-2-1/1.png)
+![history](https://github.com/wall1350/Learning-EI338/blob/master/Project-2-1/2.png)
